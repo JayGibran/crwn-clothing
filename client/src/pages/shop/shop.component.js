@@ -2,7 +2,8 @@ import React, { useEffect } from "react";
 import { Route } from "react-router-dom";
 import { connect } from "react-redux";
 
-import CollectionsOverviewContainer from "../../components/collections-overview/collection-overview.container";
+import CollectionsOverviewContainer 
+from "../../components/collections-overview/collection-overview.container";
 
 import CollectionContainer from "../../pages/collection/collection.container";
 
